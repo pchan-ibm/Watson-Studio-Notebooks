@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "marketing.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2022-05-17T16:56:35Z",
+    "created": 1652806595262,
+    "asset_id": "data_asset.marketingcsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "marketing.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/marketing.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2022-05-17T16:56:35Z",
+      "id": "66aa5987-7630-4e90-b03a-604cb5765d9a",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
